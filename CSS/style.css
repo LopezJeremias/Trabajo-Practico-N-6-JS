@@ -1,0 +1,28 @@
+*{
+    font-family: 'Times New Roman';
+    text-align: center;
+    line-height: -100%;
+}
+h1{
+    text-align: center;
+    line-height: 130%;
+    font-family: 'liberation serif';
+}
+p{
+    line-height: 90%;
+    margin-right: 40%;
+    text-align: center;
+    padding-left: 5%;
+}
+.cosito{
+    line-height: 0%;
+}
+h2{
+    margin-right: 50%;
+    margin-bottom: 10px;
+}
+.grid{
+    display: grid;
+    grid-template-rows: min-content;
+    line-height: 0% ;
+}
