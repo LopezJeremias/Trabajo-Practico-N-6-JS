@@ -11,18 +11,28 @@ h1{
 p{
     line-height: 90%;
     margin-right: 40%;
-    text-align: center;
-    padding-left: 5%;
+    text-align: center ;
+    padding-left: 7%;
 }
 .cosito{
     line-height: 0%;
 }
 h2{
-    margin-right: 50%;
+    margin-right: 30%;
     margin-bottom: 10px;
+
 }
 .grid{
     display: grid;
     grid-template-rows: min-content;
     line-height: 0% ;
+}
+.titulo1{
+    margin-right: 50%;
+}
+.titulo2{
+    margin-right: 57%;
+}
+.titulo3{
+    margin-left: 5%;
 }
