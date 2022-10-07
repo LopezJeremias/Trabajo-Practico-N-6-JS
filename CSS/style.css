@@ -6,7 +6,6 @@
 h1{
     text-align: center;
     line-height: 130%;
-    font-family: 'liberation serif';
 }
 p{
     line-height: 90%;
@@ -35,4 +34,11 @@ h2{
 }
 .titulo3{
     margin-left: 5%;
+}
+.titulo4{
+    margin-right: 38%;
+}
+@font-face {
+    font-family:'liberation serif' ;
+    src: url(../font/LiberationSerif-Regular.ttf);
 }
