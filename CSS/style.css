@@ -21,6 +21,7 @@ p{
 h2{
     margin-right: auto;
     margin-bottom: 0px;
+    line-height: -1000%;
 
 }
 .grid{
@@ -48,7 +49,9 @@ h2{
 }
 .grid3{
     display: grid;
+    text-align: center;
     padding-bottom: 0%;
+    margin-bottom: 0%;
 }
 .titulo1{
     margin-right: 5%;
@@ -73,7 +76,8 @@ h2{
 }
 .titulo8{
     margin-bottom: 20%;
-    text-align: center;
+    text-align: center; 
+    padding-bottom: 7px;
 }
 .mate{
     font-size: 60px;
