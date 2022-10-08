@@ -2,10 +2,12 @@
     font-family: 'Times New Roman';
     text-align: center;
     line-height: -100%;
+    font-size: 12px;
 }
 h1{
     text-align: center;
     line-height: 130%;
+    font-size: 20px;
 }
 p{
     line-height: 90%;
@@ -23,24 +25,65 @@ h2{
 }
 .grid{
     display: grid;
-    grid-template-rows: min-content;
     line-height: 0% ;
     margin: 0 auto;
-    padding: 10px;
+    padding: 0px;
+    border: 1px solid black;
+}
+.grid1{
+    display: grid;
+    text-align: center;
+    margin-left: 25%;
+    margin: 0%;
+    padding: 0%;
+    grid-template-columns: 50% auto;
+    grid-template-rows: 50% auto;
+
+}
+.grid2{
+    display: grid;
+    border: 1px solid black;
+
+}
+.grid3{
+    display: grid;
     border: 1px solid black;
 }
 .titulo1{
-    margin-right: 45%;
+    margin-right: 5%;
 }
 .titulo2{
-    margin-right: 52%;
+    margin-right: 5%;
 }
 .titulo3{
-    margin-right: 20%;
+    margin-right: 5%;
 }
 .titulo4{
-    margin-right: 34%;
+    margin-right: 4%;
 }
 .titulo5{
-    margin-right: 43%;
+    margin-right: 3%;
+}
+.titulo6{
+    margin-right: 3%;
+}
+.mate{
+    font-size: 60px;
+    margin-left: 30%;
+    padding-top: 0%;
+    padding: 20%;
+    padding-right: 100%;
+    width: 120%;
+    height: 350%;
+    text-align: left;
+}
+.mate1{
+    font-size: 12px;
+    text-align: center;
+    margin-left: 10%;
+}
+.mate2{
+    font-size: 12px;
+    text-align: center;
+    margin-left: 10%;
 }
